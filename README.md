@@ -1,5 +1,7 @@
 # 致所有AI用户：如何避免被"伪代码"误导
 
+[![License](https://img.shields.io/badge/license-MulanPSL%20v2%20%7C%20CC%20BY--NC--SA%204.0-green)](LICENSE)[![Stars](https://img.shields.io/github/stars/UID9622/ai-truth-protocol?style=social)](https://github.com/UID9622/ai-truth-protocol/stargazers)[![Issues](https://img.shields.io/github/issues/UID9622/ai-truth-protocol)](https://github.com/UID9622/ai-truth-protocol/issues)[![Last Commit](https://img.shields.io/github/last-commit/UID9622/ai-truth-protocol)](https://github.com/UID9622/ai-truth-protocol/commits)
+
 **作者：** Lucky | UID9622  
 **GPG指纹：** A2D0092CEE2E5BA87035600924C3704A8CC26D5F
 
