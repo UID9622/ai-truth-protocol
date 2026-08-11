@@ -1,0 +1,1 @@
+# 🐉 龙魂生态仓库验证\n\n**DNA:** `#龙芯⚡️丙午·甲申·辛丑·坤卦-REPO-ai-truth-protocol-UID9622`\n**生态状态:** 🟢 已验证\n**主权锚定:** `#ZHUGEXIN⚡️2025-🇨🇳🐉⚖️♠️🧚🏼‍♀️❤️♾️-DEVICE-BIND-SOUL`\n**对齐标准:** v1.0\n\n## 验证方式\n执行 `lh passport show UID9622` 验证生态内状态。\n本仓库通过龙魂生态标准协议 v1.0 认证。\n
